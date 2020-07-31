@@ -43,6 +43,13 @@ p{
 
  
 }
+
+img{
+   position:relative; 
+   left:380px; 
+   top:-250px;
+   width: 300px;
+}
 .rightfooter {
   text-align: right;
   font-size: 10px
