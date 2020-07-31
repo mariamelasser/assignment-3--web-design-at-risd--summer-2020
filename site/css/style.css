@@ -50,6 +50,16 @@ img{
    top:-250px;
    width: 300px;
 }
+
+.second{
+   position:relative; 
+   left:460px; 
+   top:-110px;
+   /*line-height: 32px;*/   
+   margin-bottom: 10px;
+   width: 300px;
+   
+}
 .rightfooter {
   text-align: right;
   font-size: 10px
